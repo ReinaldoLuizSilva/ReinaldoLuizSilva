@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldoluizdasilva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReinaldoLuizSilva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reinaldodasilva@ienh.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reinaldodasilva@gmail.com.br)
 
 </div>
 
@@ -104,7 +104,5 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ReinaldoLuizSilva.ReinaldoLuizSilva)
-
-*"Código limpo não é escrito por quem segue regras, mas por quem se importa com o ofício."*
 
 </div>
