@@ -72,6 +72,10 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
 ---
 
 ## 🚀 Experiência
