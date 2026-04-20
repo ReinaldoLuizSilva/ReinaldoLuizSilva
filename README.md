@@ -24,7 +24,7 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 - 🏢 Atualmente na **Beg Support** como Oracle APEX Developer
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na IENH (conclusão 2026)
-- 🌍 Localização: **Porto Alegre, RS — Brasil**
+- 🌍 Localização: **Novo Hamburgo, RS — Brasil**
 - 🎯 Objetivo: aprofundar especialização em **Back-End, Bancos de Dados e Cloud**
 
 ---
@@ -50,7 +50,8 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![SQLcl](https://img.shields.io/badge/SQLcl-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
