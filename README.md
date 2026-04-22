@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Reinaldo%20Luiz%20da%20Silva&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Oracle%20APEX%20Developer%20%7C%20Back-End%20%7C%20OCI%20Cloud&descSize=16&descAlignY=58&descColor=a8b2d8" />
-
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Reinaldo%20Luiz%20da%20Silva&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Oracle%20APEX%20Developer%20%7C%20Back-End%20%7C%20OCI%20Cloud&descSize=16&descAlignY=58&descColor=a8b2d8" />
 </div>
 
 <div align="center">
