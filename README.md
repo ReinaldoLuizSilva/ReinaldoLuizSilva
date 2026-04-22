@@ -65,7 +65,7 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ReinaldoLuizSilva&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ReinaldoLuizSilva&theme=tokyonight&hide_border=true&locale=pt_BR)](https://streak-stats.demolab.com?user=ReinaldoLuizSilva)
 
 </div>
 
