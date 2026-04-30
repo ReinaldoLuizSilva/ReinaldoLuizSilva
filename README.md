@@ -1,12 +1,12 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Reinaldo%20Luiz%20da%20Silva&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Oracle%20APEX%20Developer%20%7C%20Back-End%20%7C%20OCI%20Cloud&descSize=16&descAlignY=58&descColor=a8b2d8" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Reinaldo%20Luiz%20da%20Silva&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Oracle%20APEX%20Developer%20%7C%20Back-End%20%7C%20OCI%20Cloud&descSize=16&descAlignY=58&descColor=a8b2d8&fontFamily=Raleway" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldoluizdasilva)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReinaldoLuizSilva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reinaldodasilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldoluizdasilva)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ReinaldoLuizSilva)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reinaldodasilva@gmail.com)
 
 </div>
 
@@ -32,23 +32,23 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 <div align="center">
 
 ### 🗄️ Banco de Dados & Back-End
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### ☁️ Cloud & Infraestrutura
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLcl](https://img.shields.io/badge/SQLcl-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=postman&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLcl](https://img.shields.io/badge/SQLcl-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6B46C1?style=flat-square&logo=databricks&logoColor=white)
 
 </div>
 
@@ -102,7 +102,7 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&fontFamily=Raleway" />
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ReinaldoLuizSilva.ReinaldoLuizSilva)
 
