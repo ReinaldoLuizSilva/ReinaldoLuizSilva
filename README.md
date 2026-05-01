@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Sobre mim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Sobre+mim" alt="Sobre mim" />
 </div>
 
 ```sql
@@ -30,12 +30,12 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Stack+%26+Tecnologias" alt="Stack & Tecnologias" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Stack+%26+Tecnologias" alt="Stack & Tecnologias" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=%F0%9F%97%84%EF%B8%8F+Banco+de+Dados+%26+Back-End" alt="Banco de Dados & Back-End" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=%F0%9F%92%BE+Banco+de+Dados+%26+Back-End" alt="Banco de Dados & Back-End" />
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -43,13 +43,13 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=%E2%98%81%EF%B8%8F+Cloud+%26+Infraestrutura" alt="Cloud & Infraestrutura" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+Cloud+%26+Infraestrutura" alt="Cloud & Infraestrutura" />
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=%F0%9F%94%A7+Ferramentas" alt="Ferramentas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=%F0%9F%94%A9+Ferramentas" alt="Ferramentas" />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=postman&logoColor=white)
@@ -62,7 +62,7 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%93%88+GitHub+Stats" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -83,7 +83,7 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Experi%C3%AAncia" alt="Experiência" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%92%BC+Experi%C3%AAncia" alt="Experiência" />
 </div>
 
 ```
@@ -100,7 +100,7 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+Forma%C3%A7%C3%A3o" alt="Formação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%F0%9F%93%9A+Forma%C3%A7%C3%A3o" alt="Formação" />
 </div>
 
 ```
