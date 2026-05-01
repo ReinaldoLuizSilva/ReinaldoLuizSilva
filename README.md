@@ -68,8 +68,6 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReinaldoLuizSilva&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReinaldoLuizSilva&theme=tokyonight" />
-
 </div>
 
 <div align="center">
