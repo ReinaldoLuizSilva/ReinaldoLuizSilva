@@ -12,7 +12,9 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=👨‍💻+Sobre+mim" alt="Sobre mim" />
+</div>
 
 ```sql
 SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
@@ -27,23 +29,25 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 ---
 
-## 🛠️ Stack & Tecnologias
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=🛠️+Stack+%26+Tecnologias" alt="Stack & Tecnologias" />
+</div>
 
 <div align="center">
 
-### 🗄️ Banco de Dados & Back-End
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=🗄️+Banco+de+Dados+%26+Back-End" alt="Banco de Dados & Back-End" />
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### ☁️ Cloud & Infraestrutura
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=☁️+Cloud+%26+Infraestrutura" alt="Cloud & Infraestrutura" />
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔧 Ferramentas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=🔧+Ferramentas" alt="Ferramentas" />
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=postman&logoColor=white)
 ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -54,7 +58,9 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
@@ -75,7 +81,9 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 ---
 
-## 🚀 Experiência
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=🚀+Experi%C3%AAncia" alt="Experiência" />
+</div>
 
 ```
 💼 Beg Support                                         1 ano 11 meses
@@ -90,7 +98,9 @@ SELECT * FROM developer WHERE name = 'Reinaldo' AND passion = 'Back-End';
 
 ---
 
-## 🎓 Formação
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=🎓+Forma%C3%A7%C3%A3o" alt="Formação" />
+</div>
 
 ```
 🏫 IENH — Instituição Evangélica de Novo Hamburgo
