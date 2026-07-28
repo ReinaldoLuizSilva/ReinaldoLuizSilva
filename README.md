@@ -130,8 +130,19 @@ GitHub Actions ──(Workload Identity Federation)──> GCP
 
 ## 📈 GitHub Stats
 
+<!--
+  Cards gerados pelo workflow .github/workflows/profile-cards.yml e servidos
+  como SVG estático da branch profile-summary-card-output deste repositório.
+  Não dependem de serviço externo em runtime, então não sofrem rate limit.
+-->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReinaldoLuizSilva&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" />
+
+<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais commitadas" />
+
+<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários produtivos" />
 
 </div>
