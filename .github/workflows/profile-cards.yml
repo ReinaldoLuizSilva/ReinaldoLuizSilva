@@ -1,12 +1,13 @@
 name: Generate Profile Summary Cards
 
+# Sem gatilho em push: a action commita os SVGs regenerados na própria main,
+# então rodar a cada push deixaria o clone local atrás do remoto na hora,
+# fazendo o próximo `git push` ser rejeitado. Schedule + manual bastam,
+# já que as estatísticas do perfil mudam devagar.
 on:
   schedule:
     - cron: "0 */12 * * *"   # roda a cada 12 horas automaticamente
   workflow_dispatch:           # permite rodar manualmente
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
