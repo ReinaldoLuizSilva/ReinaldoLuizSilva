@@ -18,6 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Com o repo já checado em main, a action commita nesta mesma branch,
+      # gerando os SVGs em profile-summary-card-output/<tema>/.
+      # É de lá que o README lê os cards — não de uma branch separada.
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
