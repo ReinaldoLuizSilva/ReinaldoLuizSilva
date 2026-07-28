@@ -139,10 +139,6 @@ GitHub Actions ──(Workload Identity Federation)──> GCP
 
 <img src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" />
 
-<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
-<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais commitadas" />
-
-<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
-<img height="200em" src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários produtivos" />
+<img src="https://raw.githubusercontent.com/ReinaldoLuizSilva/ReinaldoLuizSilva/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
 
 </div>
