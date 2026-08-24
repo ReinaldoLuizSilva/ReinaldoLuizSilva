@@ -28,7 +28,7 @@ Trabalho com **infraestrutura e bancos de dados Oracle em produção** há 2 ano
 
 Estou direcionando essa base para **Cloud e DevOps**: certificação **Google Cloud Associate Cloud Engineer**, preparação para a **AZ-104**, e prática real com **Terraform**, **Docker** e **CI/CD** nos meus projetos.
 
-- ☁️ **Google Cloud — Associate Cloud Engineer** · 2026 <!-- ajustar se o resultado ainda não saiu -->
+- ☁️ **Google Cloud — Associate Cloud Engineer** ·
 - 📘 **AZ-104 (Azure Administrator)** · em preparação, exame previsto para out/2026
 - 🏢 **BEG Support** — Analista de Sistemas / Oracle APEX Developer
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IENH (conclusão jul/2026)
