@@ -5,7 +5,7 @@
 <!-- <div align="center"><img src="./assets/banner.png" alt="Reinaldo Luiz da Silva — Cloud & DevOps" width="100%" /></div> -->
 
 <h1 align="center">Reinaldo Luiz da Silva</h1>
-<p align="center"><strong>Cloud &amp; DevOps</strong> · Infraestrutura · Oracle &amp; OCI</p>
+<p align="center"><strong>Cloud &amp; DevOps</strong> · Infraestrutura · GCP · Oracle &amp; OCI</p>
 
 <div align="center">
 
@@ -30,8 +30,8 @@ Estou direcionando essa base para **Cloud e DevOps**: certificação **Google Cl
 
 - ☁️ **Google Cloud — Associate Cloud Engineer**
 - 📘 **AZ-104 (Azure Administrator)** · em preparação, exame previsto para out/2026
-- 🏢 **BEG Support** — Analista de Sistemas / Oracle APEX Developer
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IENH (conclusão jul/2026)
+- 🏢 **BEG Support** — Analista de Sistemas | Oracle APEX & Infraestrutura Cloud
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IENH (concluído em jul/2026)
 - 🌍 Novo Hamburgo, RS — Brasil
 - 🎯 Aberto a oportunidades como **Cloud Engineer**, **DevOps**, **SRE** e **Analista de Infraestrutura Cloud**
 
@@ -54,10 +54,16 @@ GitHub Actions ──(Workload Identity Federation)──> GCP
 
 - **IaC** — Terraform provisionando toda a infraestrutura, com state remoto em bucket GCS
 - **CI/CD** — pipeline com lint, testes, build da imagem e deploy automatizado a cada merge
-- **Segurança** — autenticação por Workload Identity Federation, sem credenciais no repositório; segredos no Secret Manager
+- **Segurança** — autenticação por Workload Identity Federation, sem credenciais no repositório; segredos no Secret Manager, least privilege e separação entre identidade de deploy e de runtime
 - **Observabilidade** — logs estruturados e alertas de erro no Cloud Monitoring
 
 `Python` · `FastAPI` · `Docker` · `Terraform` · `GitHub Actions` · `GCP` · `Oracle Cloud`
+
+### 💰 [CostOps](https://github.com/ReinaldoLuizSilva/CostOps) · 🚧 em planejamento
+
+Inventário e análise de custos **multi-cloud** (Azure, GCP e OCI): coleta automatizada de recursos e gastos via SDK de cada provedor, normalização em um modelo comum, histórico para comparação entre períodos e alertas de anomalia de custo.
+
+`Python` · `Terraform` · `GitHub Actions` · `Azure` · `GCP` · `OCI` · `FinOps`
 
 ---
 
@@ -98,9 +104,10 @@ GitHub Actions ──(Workload Identity Federation)──> GCP
 ## 💼 Experiência
 
 ```
-💼 BEG Support Informática Aplicada                    2 anos
+💼 BEG Support Informática Aplicada                    2+ anos
    │
-   ├── 🔷 Analista de Sistemas / Oracle APEX Developer   jun/2025 → presente
+   ├── 🔷 Analista de Sistemas | Oracle APEX &          jun/2025 → presente
+   │      Infraestrutura Cloud
    │      Sustentação de ambientes Oracle (produção, homologação e dev)
    │      para múltiplos clientes em OCI e on-premises · automação de
    │      rotinas · upgrades de plataforma · backup/restore (RMAN, Data
@@ -118,12 +125,16 @@ GitHub Actions ──(Workload Identity Federation)──> GCP
 ```
 🏫 IENH — Instituição Evangélica de Novo Hamburgo
    📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
-   📅 fev/2023 → jul/2026
+   📅 fev/2023 → jul/2026 (concluído)
 
 📜 Certificações
-   ✅ Google Cloud — Associate Cloud Engineer (ACE)       2026
-   🔄 Microsoft Azure Administrator Associate (AZ-104)    out/2026
-   🔄 GitHub Actions (GH-200)                             2026
+   ✅ Google Cloud — Associate Cloud Engineer (ACE)            2026
+   ✅ Oracle Cloud Infrastructure — Certified Foundations      2023
+   ✅ Google Cloud — Computing Foundations Certificate
+   🔄 Microsoft Azure Administrator Associate (AZ-104)         out/2026
+
+📖 Em estudo
+   Kubernetes · Azure (AZ-104)
 ```
 
 ---
